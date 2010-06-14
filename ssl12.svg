@@ -31,15 +31,15 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.19724698"
      inkscape:cx="1315.8842"
-     inkscape:cy="2425.8926"
+     inkscape:cy="1633.9595"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      borderlayer="true"
      inkscape:window-width="1268"
-     inkscape:window-height="971"
+     inkscape:window-height="948"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="24"
      showguides="true"
      inkscape:guide-bbox="true"
      units="cm"
@@ -754,6 +754,20 @@
          id="rect3832"
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.54330707;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;enable-background:new" />
     </mask>
+    <inkscape:perspective
+       id="perspective3491"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3522"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <metadata
      id="metadata7">
@@ -763,7 +777,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:date>2009-09-05</dc:date>
         <dc:creator>
           <cc:Agent>
@@ -2985,17 +2999,21 @@
            y="182.04338">Tu libertad exige software libre</tspan></text>
     </g>
     <text
-       transform="scale(1.0002279,0.9997722)"
+       transform="scale(1.0002279,0.99977216)"
        sodipodi:linespacing="100%"
        id="text3222"
-       y="4164.6606"
-       x="1491.061"
-       style="font-size:63.41801071px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       y="4134.6533"
+       x="1501.0586"
+       style="font-size:55px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
        xml:space="preserve"><tspan
-         y="4164.6606"
-         x="1491.061"
+         y="4134.6533"
+         x="1510.6191"
          sodipodi:role="line"
-         id="tspan3512">LUGUSAC - Grupo de usuario de GNU/Linux de  la USAC</tspan></text>
+         id="tspan3477">Licencia CC-By SA version 3 France </tspan><tspan
+         y="4189.6533"
+         x="1501.0586"
+         sodipodi:role="line"
+         id="tspan3481">Diseño gráfico tomado de http://www.nojhan.net/art/ (Nojhan Noj)</tspan></text>
     <text
        transform="scale(1.0002279,0.99977216)"
        inkscape:transform-center-y="388.95595"
@@ -4366,7 +4384,7 @@
            y="2032.9841"
            style="font-size:72px" /></flowRegion><flowPara
          id="flowPara3500"
-         style="font-size:90px">introducción a git </flowPara><flowPara
+         style="font-size:90px">Introducción a git </flowPara><flowPara
          id="flowPara3502"
          style="font-size:90px">Josué Abarca</flowPara><flowPara
          id="flowPara3504"
@@ -4398,5 +4416,18 @@
            height="192.65187"
            x="689.49091"
            y="1632.4711" /></flowRegion><flowPara
-         id="flowPara3530"></flowPara></flowRoot>  </g>
+         id="flowPara3530" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3516-6"
+       style="font-size:80px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+       transform="translate(402.7356,191.89839)"><flowRegion
+         id="flowRegion3518-6"><rect
+           id="rect3520-0"
+           width="2093.8218"
+           height="263.62888"
+           x="583.02539"
+           y="3579.269"
+           style="font-size:80px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold" /></flowRegion><flowPara
+         id="flowPara3522-2"
+         style="font-size:80px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold">http://www.lugusac.org</flowPara></flowRoot>  </g>
 </svg>
