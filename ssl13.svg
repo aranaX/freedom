@@ -34,15 +34,15 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.17089991"
      inkscape:cx="1067.3783"
-     inkscape:cy="2106.4961"
+     inkscape:cy="1170.2756"
      inkscape:document-units="px"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer1"
      showgrid="false"
      borderlayer="true"
      inkscape:window-width="1280"
-     inkscape:window-height="975"
+     inkscape:window-height="951"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="24"
      showguides="true"
      inkscape:guide-bbox="true"
      units="cm"
@@ -2394,6 +2394,13 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5752"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <metadata
      id="metadata7">
@@ -2506,17 +2513,21 @@
            y="182.04338">Tu libertad te exige software libre</tspan></text>
     </g>
     <text
-       transform="scale(1.0002279,0.9997722)"
+       transform="scale(1.0002279,0.99977216)"
        sodipodi:linespacing="100%"
        id="text3222"
-       y="4164.6606"
-       x="1491.061"
-       style="font-size:63.41801071px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7.08661413;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       y="4131.1787"
+       x="1500.4098"
+       style="font-size:55px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
        xml:space="preserve"><tspan
-         y="4164.6606"
-         x="1491.061"
-         id="tspan3224"
-         sodipodi:role="line">APRIL - Promouvoir et défendre le logiciel libre</tspan></text>
+         y="4131.1787"
+         x="1509.9703"
+         sodipodi:role="line"
+         id="tspan3477">Licencia CC-By SA version 3 France </tspan><tspan
+         y="4186.1787"
+         x="1500.4098"
+         sodipodi:role="line"
+         id="tspan3481">Diseño gráfico tomado de http://www.nojhan.net/art/ (Nojhan Noj)</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -12514,7 +12525,7 @@
            height="704.17157"
            x="1745.3826"
            y="3129.6514" /></flowRegion><flowPara
-         id="flowPara4949"></flowPara></flowRoot>    <text
+         id="flowPara4949" /></flowRoot>    <text
        xml:space="preserve"
        style="font-size:144px;font-style:normal;font-weight:bold;fill:#000080;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
        x="2100.4775"
@@ -12534,7 +12545,7 @@
            height="716.20868"
            x="1191.6749"
            y="2961.1316" /></flowRegion><flowPara
-         id="flowPara4961"></flowPara></flowRoot>    <text
+         id="flowPara4961" /></flowRoot>    <text
        xml:space="preserve"
        style="font-size:144px;font-style:normal;font-weight:bold;fill:#ff00ff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
        x="187.41132"
@@ -12580,7 +12591,7 @@
            height="555.88092"
            x="906.96362"
            y="3112.9331" /></flowRegion><flowPara
-         id="flowPara4995"></flowPara></flowRoot>    <flowRoot
+         id="flowPara4995" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4997"
        style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Bitstream Vera Sans;font-style:normal;font-weight:normal;font-size:90;-inkscape-font-specification:Bitstream Vera Sans"><flowRegion
@@ -12591,14 +12602,14 @@
            x="825.04431"
            y="3101.2305"
            style="font-size:90;font-weight:normal;-inkscape-font-specification:Bitstream Vera Sans" /></flowRegion><flowPara
-         id="flowPara5003"></flowPara></flowRoot>    <text
+         id="flowPara5003" /></flowRoot>    <text
        xml:space="preserve"
        style="font-size:32px;font-style:normal;font-weight:bold;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
        x="1304.8573"
        y="3212.4065"
        id="text5005"><tspan
          sodipodi:role="line"
-         id="tspan5007"></tspan></text>
+         id="tspan5007" /></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot5009"
@@ -12618,7 +12629,7 @@
          id="flowPara5019"
          style="fill:#d5e5ff" /><flowPara
          style="fill:#d5e5ff"
-         id="flowPara5025">GPG, y Certificados, </flowPara><flowPara
+         id="flowPara5025">PGP, y Certificados, </flowPara><flowPara
          style="fill:#d5e5ff"
          id="flowPara5023">¿Qué son y para qué los necesito?</flowPara><flowPara
          id="flowPara5021"
@@ -12632,7 +12643,7 @@
            height="46.811024"
            x="1269.749"
            y="2638.9714" /></flowRegion><flowPara
-         id="flowPara5054"></flowPara></flowRoot>  </g>
+         id="flowPara5054" /></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer8"
