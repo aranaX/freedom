@@ -34,19 +34,24 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.171612"
      inkscape:cx="1489.9606"
-     inkscape:cy="2094.8419"
+     inkscape:cy="1861.758"
      inkscape:document-units="px"
      inkscape:current-layer="layer7"
      showgrid="false"
      borderlayer="true"
      inkscape:window-width="1280"
-     inkscape:window-height="975"
+     inkscape:window-height="951"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="24"
      showguides="true"
      inkscape:guide-bbox="true"
      units="cm"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       orientation="1,0"
+       position="1503.3914,1596.6249"
+       id="guide5794" />
+  </sodipodi:namedview>
   <defs
      id="defs4">
     <linearGradient
@@ -2332,6 +2337,13 @@
          x="137.15561"
          y="385.73514" />
     </clipPath>
+    <inkscape:perspective
+       id="perspective5774"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <metadata
      id="metadata7">
@@ -2436,18 +2448,6 @@
            x="1474.0818"
            y="182.04338">Tu libertad exige software libre </tspan></text>
     </g>
-    <text
-       transform="scale(1.0002279,0.9997722)"
-       sodipodi:linespacing="100%"
-       id="text3222"
-       y="4164.6606"
-       x="1491.061"
-       style="font-size:63.41801071px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7.08661413;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
-       xml:space="preserve"><tspan
-         y="4164.6606"
-         x="1491.061"
-         id="tspan3224"
-         sodipodi:role="line">APRIL - Promouvoir et défendre le logiciel libre</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -8764,7 +8764,23 @@
          id="flowPara5054"
          style="font-size:72px">Debian day 07/08/2010</flowPara><flowPara
          style="font-size:72px"
-         id="flowPara5058" /></flowRoot>  </g>
+         id="flowPara5058" /></flowRoot>    <text
+       transform="scale(1.0002279,0.99977216)"
+       sodipodi:linespacing="100%"
+       id="text3222-5"
+       y="4131.2964"
+       x="1501.4065"
+       style="font-size:55px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+       xml:space="preserve"><tspan
+         y="4131.2964"
+         x="1510.967"
+         sodipodi:role="line"
+         id="tspan3477">Licencia CC-By SA version 3 France </tspan><tspan
+         y="4186.2964"
+         x="1501.4065"
+         sodipodi:role="line"
+         id="tspan3481">Diseño gráfico tomado de http://www.nojhan.net/art/ (Nojhan Noj)</tspan></text>
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
