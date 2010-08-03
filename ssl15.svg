@@ -33,10 +33,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.171612"
-     inkscape:cx="1489.9606"
+     inkscape:cx="1550.9626"
      inkscape:cy="1861.758"
      inkscape:document-units="px"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer9"
      showgrid="false"
      borderlayer="true"
      inkscape:window-width="1280"
@@ -2344,6 +2344,73 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5804"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8841"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8896"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <filter
+       inkscape:collect="always"
+       id="filter8926"
+       x="-0.16392958"
+       width="1.3278592"
+       y="-0.32245492"
+       height="1.6449098">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="142.48905"
+         id="feGaussianBlur8928" />
+    </filter>
+    <inkscape:perspective
+       id="perspective8938"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8982"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective9043"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter8926-4"
+       x="-0.16392958"
+       width="1.3278592"
+       y="-0.32245493"
+       height="1.6449099">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="142.48905"
+         id="feGaussianBlur8928-1" />
+    </filter>
   </defs>
   <metadata
      id="metadata7">
@@ -8750,21 +8817,7 @@
        transform="translate(1334.4055,-145.67746)"
        width="2979.9211"
        height="4212.9922" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot5046"
-       style="font-size:144px;font-style:normal;font-weight:bold;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"><flowRegion
-         id="flowRegion5048"><rect
-           id="rect5050"
-           width="763.34985"
-           height="291.35492"
-           x="2039.4844"
-           y="2330.8394"
-           style="font-size:144px" /></flowRegion><flowPara
-         id="flowPara5054"
-         style="font-size:72px">Debian day 07/08/2010</flowPara><flowPara
-         style="font-size:72px"
-         id="flowPara5058" /></flowRoot>    <text
+    <text
        transform="scale(1.0002279,0.99977216)"
        sodipodi:linespacing="100%"
        id="text3222-5"
@@ -15007,6 +15060,27 @@
   </g>
   <g
      inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="FONDO-TEXTO">
+    <rect
+       style="opacity:0.68199236;color:#000000;fill:#1a0b0b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.20000005;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter8926);enable-background:accumulate"
+       id="rect8885"
+       width="2086.1013"
+       height="1060.5319"
+       x="477.8219"
+       y="2855.2783"
+       transform="matrix(0.7454634,0,0,0.94989538,381.46611,-669.84228)" />
+    <rect
+       style="opacity:0.68199236;color:#000000;fill:#1a0b0b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.20000005;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter8926-4);enable-background:accumulate"
+       id="rect8885-9"
+       width="2086.1013"
+       height="1060.5319"
+       x="477.8219"
+       y="2855.2783"
+       transform="matrix(0.95161705,0,0,0.61920487,38.621833,1418.2054)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="Texte"
      style="display:inline">
@@ -15061,5 +15135,68 @@
          x="2750.7156"
          y="1333.7773"
          id="tspan5330">crece cuando se comparte</tspan></text>
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3478"
+       style="font-size:130px;font-style:normal;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       transform="translate(-753.18034,-683.04862)"><flowRegion
+         id="flowRegion3480"><rect
+           id="rect3482"
+           width="1954.6445"
+           height="1356.3466"
+           x="1277.5861"
+           y="2950.6155"
+           style="font-size:130px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara3484"
+         style="font-size:130px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans">Biblioteca Central </flowPara><flowPara
+         id="flowPara3486"
+         style="font-size:130px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans">USAC</flowPara><flowPara
+         style="font-size:130px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         id="flowPara8970">4to nivel salón 4</flowPara><flowPara
+         id="flowPara3492"
+         style="font-size:130px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans">10:00 am - 07/08/10</flowPara></flowRoot>    <flowRoot
+       transform="translate(-188.57077,-792.01035)"
+       xml:space="preserve"
+       id="flowRoot5046"
+       style="font-size:110px;font-style:normal;font-weight:bold;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"><flowRegion
+         id="flowRegion5048"><rect
+           id="rect5050"
+           width="763.34985"
+           height="291.35492"
+           x="2039.4844"
+           y="2330.8394"
+           style="font-size:110px" /></flowRegion><flowPara
+         id="flowPara5054"
+         style="font-size:110px"><flowSpan
+           style="font-size:110px"
+           id="flowSpan8964">Debian day </flowSpan></flowPara><flowPara
+         style="font-size:110px"
+         id="flowPara5058" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3478-6"
+       style="font-size:90px;font-style:normal;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       transform="translate(-1003.4899,244.33914)"><flowRegion
+         id="flowRegion3480-6"><rect
+           id="rect3482-1"
+           width="2735.4756"
+           height="721.19305"
+           x="1137.7357"
+           y="2921.48"
+           style="font-size:90px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara3492-5"
+         style="font-size:90px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans">Conferencias:</flowPara><flowPara
+         style="font-size:90px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         id="flowPara9023">0. Cómo Convertirme en  Debian Developer.</flowPara><flowPara
+         style="font-size:90px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         id="flowPara9027">1. Cómo reportar bugs en Debian</flowPara><flowPara
+         style="font-size:90px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         id="flowPara9033" /><flowPara
+         style="font-size:90px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         id="flowPara9067">Por la tarde taller de empaquetado</flowPara><flowPara
+         style="font-size:90px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         id="flowPara9069">en Escuintla (14.247782, -90.776837)</flowPara><flowPara
+         style="font-size:90px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         id="flowPara9071" /><flowPara
+         style="font-size:90px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         id="flowPara9025" /></flowRoot>  </g>
 </svg>
